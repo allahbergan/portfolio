@@ -4,3 +4,16 @@
     box-sizing: border-box;
 }
 
+body{
+    font-family: sans-serif;
+}
+
+h1{
+    margin: 1rem 0;
+    text-align: center;
+    color: rgb(81, 75, 75);
+}
+
+h3{
+    text-align: right;
+}
